@@ -1,5 +1,10 @@
 ___id___.c.mystat-in.net
-0.0.0.0.	assets.anyclip.com
+twistedsifter.com
+www.twistedsifter.com
+www.sprig.com
+sprig.com
+*.sprig.com
+assets.anyclip.com
 0.r.msn.com
 000free.us
 000owamail0.000webhostapp.com
