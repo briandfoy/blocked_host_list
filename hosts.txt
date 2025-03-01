@@ -6866,7 +6866,7 @@ anal-acrobats.com
 analxxxclipsyjh.dnset.com
 analysis.fc2.com
 analysis.polarisoffice.com
-analytic-google.com
+||analytic-google.com^
 analytic.ae.com
 analytic.detik.com
 analytic.gatewayinterface.com
@@ -6906,7 +6906,7 @@ analytics.freedom.com
 analytics.fuckingawesome.com
 analytics.gameforge.de
 analytics.gazeta.pl
-analytics.google.com
+||analytics.google.com^
 analytics.harpercollins.com
 analytics.hayneedle.com
 analytics.hgcdn.net
