@@ -4231,7 +4231,7 @@ ads.realvail.com
 ads.reason.com
 ads.recoletos.es
 ads.recordpub.com
-ads.reddit.com
+||ads.reddit.com^
 ads.rediff.com
 ads.redlightcenter.com
 ads.redorbit.com
