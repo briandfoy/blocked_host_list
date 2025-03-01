@@ -1,0 +1,59 @@
+name: Update hosts-abp.txt
+on:
+    push:
+        paths:
+            - 'hosts.txt'
+    workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+jobs:
+    update-ranges:
+        runs-on: ubuntu-latest
+        environment: action-pull-request
+        env:
+            GH_TOKEN: ${{ github.token }}
+        steps:
+            - uses: actions/checkout@v3
+            - name: setup git config
+              run: |
+                git config --global user.name "GitHub Actions Bot"
+                git config --global user.email "<>"
+            - name: Update module data
+              id: update
+              run: |
+                perl bin/abp hosts.txt > hosts-abp.txt
+            - name: Commit
+              id: commit
+              run: |
+                echo
+                git diff
+                git add hosts-abp.txt
+                git commit -m "Regenerate hosts-abp.txt" hosts-abp.txt
+                echo "CHANGES=1" >> $GITHUB_ENV
+            - name: branch name
+              run: |
+                perl -e 'print qq(PR_BRANCH_NAME=actions/data-update-@{[time]}\n)' >> $GITHUB_ENV
+            - name: Create Pull Request
+              id: pull-request
+              if: ${{ env.CHANGES == 1 }}
+              uses: peter-evans/create-pull-request@v6
+              with:
+                token: ${{ env.GH_TOKEN }}
+                assignees: briandfoy
+                labels: "Type: data update"
+                title: Regenerate hosts-abp.txt
+                delete-branch: true
+                branch: ${{env.PR_BRANCH_NAME}}
+                base: master
+            - name: Merge the pull request
+              if: ${{ env.CHANGES == 1 }}
+              shell: bash
+              run: |
+                echo "Merging pull request <${{ steps.pull-request.outputs.pull-request-number }}>"
+                gh pr merge ${{ steps.pull-request.outputs.pull-request-number }} --admin --squash
+            - name: Clean up
+              continue-on-error: true
+              run: |
+                git push origin :${{env.PR_BRANCH_NAME}}
