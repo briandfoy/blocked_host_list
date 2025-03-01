@@ -3739,7 +3739,7 @@ ads.imeem.com
 ads.img.co.za
 ads.img.globo.com
 ads.imguol.com
-ads.imgur.com
+||ads.imgur.com^
 ads.immobilienscout24.de
 ads.imposibil.ro
 ads.ims.nl
@@ -4059,8 +4059,8 @@ ads.nwsource.com.edgesuite.net
 ads.nyi.net
 ads.nyjournalnews.com
 ads.nyootv.com
-ads.nypost.com
-ads.nytimes.com
+||ads.nypost.com^
+||ads.nytimes.com^
 ads.nyx.cz
 ads.nzcity.co.nz
 ads.o-networkaffiliates.com
@@ -4228,7 +4228,7 @@ ads.realmedia.de
 ads.realmedia.ro
 ads.realtechnetwork.net
 ads.realvail.com
-ads.reason.com
+||ads.reason.com^
 ads.recoletos.es
 ads.recordpub.com
 ||ads.reddit.com^
@@ -4370,7 +4370,7 @@ ads.sports.fr
 ads.sportsblog.com
 ads.sptimes.com
 ads.spymac.net
-ads.stackoverflow.com
+||ads.stackoverflow.com^
 ads.standartnews.com
 ads.starbanner.com
 ads.stardoll.com
@@ -4584,7 +4584,7 @@ ads.waterbondage.com
 ads.watershed-publishing.com
 ads.wave.si
 ads.weather.ca
-ads.weather.com
+||ads.weather.com^
 ads.weatherflow.com
 ads.web.alwayson-network.com
 ads.web.aol.com
@@ -4669,7 +4669,7 @@ ads.yldmgrimg.net
 ads.ynot.com
 ads.youporn.com
 ads.yourfreedvds.com
-ads.youtube.com
+||ads.youtube.com^
 ads.yvmads.com
 ads.zajenata.bg
 ads.zamunda.net
