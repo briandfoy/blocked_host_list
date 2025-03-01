@@ -5532,7 +5532,7 @@ adserversolutions.com
 adserverus.info
 adservice.aliexpress.com
 adservicedomain.info
-adservices.google.com
+||adservices.google.com^
 adservices.picadmedia.com
 adservices.zango.com
 adservicestats.com
