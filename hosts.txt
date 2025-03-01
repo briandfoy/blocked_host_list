@@ -1,10 +1,8 @@
-___id___.c.mystat-in.net
-||sentry.io^
+sentry.io
 twistedsifter.com
 www.twistedsifter.com
 www.sprig.com
 sprig.com
-*.sprig.com
 assets.anyclip.com
 0.r.msn.com
 000free.us
@@ -6756,7 +6754,7 @@ amateurgalls.com
 amateurlivechat.org
 amateurmatch.com
 amateurtubemovies.download
-amazing-gals.com 
+amazing-gals.com
 amazing-offers.co.il
 amazing.mygeek.com
 amazingcounters.com
@@ -7147,7 +7145,7 @@ antispywareexpert.com
 antispywarefile.com
 antispywerepro.com
 antivirus-1.info
-antivirus-2009-version.com 
+antivirus-2009-version.com
 antivirus-center.org
 antivirus-message.com
 antivirus-online-scan5.com
@@ -10364,7 +10362,7 @@ c.adverpages.com
 c.am10.ru
 c.am11.ru
 c.amazon-adsystem.com
-c.amazon-adsystem.com	
+c.amazon-adsystem.com
 c.anytrx.com
 c.ar.msn.com
 c.as-us.falkag.net
@@ -10608,7 +10606,7 @@ c3.gostats.ir
 c3.openx.org
 c3.outster.com
 c3.statcounter.com
-c3.statcounter.com 
+c3.statcounter.com
 c3.thecounter.com
 c3.xxxcounter.com
 c3.zedo.com
@@ -49727,7 +49725,7 @@ youtubedownload.org
 youtuberid.com
 youtuhe.com
 youvideoss.com
-youvideozz.com 
+youvideozz.com
 youvids.pl
 yoyo-zdjecia.bo.pl
 yoytv.za-darmo.eu
