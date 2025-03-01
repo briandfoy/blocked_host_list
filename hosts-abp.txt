@@ -7,8 +7,10 @@
 ||ads.weather.com^
 ||ads.youtube.com^
 ||adservices.google.com^
+||analytic-google.com^
+||analytics.google.com^
 ||rads.stackoverflow.com^
-# produced by bin/abp.pl at Sat Mar  1 02:15:04 2025
+# produced by bin/abp.pl at Sat Mar  1 02:31:03 2025
 # Processed 50167 lines.
 # Output 28535 lines.
 ||000free.us^
