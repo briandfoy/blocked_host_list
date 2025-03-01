@@ -1,8 +1,16 @@
+||ads.imgur.com^
+||ads.nypost.com^
+||ads.nytimes.com^
+||ads.reason.com^
 ||ads.reddit.com^
+||ads.stackoverflow.com^
+||ads.weather.com^
+||ads.youtube.com^
 ||adservices.google.com^
-# produced by bin/abp.pl at Sat Mar  1 01:53:06 2025
+||rads.stackoverflow.com^
+# produced by bin/abp.pl at Sat Mar  1 02:15:04 2025
 # Processed 50167 lines.
-# Output 28538 lines.
+# Output 28535 lines.
 ||000free.us^
 ||000webhost.com^
 ||000webhostapp.com^
@@ -17665,7 +17673,6 @@
 ||nyjournalnews.com^
 ||nymag.com^
 ||nyootv.com^
-||nypost.com^
 ||nyron.com^
 ||nysubwayoffer.com^
 ||nysun.com^
@@ -20547,7 +20554,6 @@
 ||realybooks.com^
 ||reanimapedia.org^
 ||reasedoper.pw^
-||reason.com^
 ||rebatestatus.us^
 ||rebathgallery.com^
 ||rebeccacella.com^
@@ -23222,7 +23228,6 @@
 ||stabx.net^
 ||stackadapt.com^
 ||stackmag.com^
-||stackoverflow.com^
 ||stackoverflow.xyz^
 ||stackthatbucks.com^
 ||stadiumcrossing.com^
