@@ -23,7 +23,7 @@ jobs:
             - name: Update module data
               id: update
               run: |
-                perl bin/abp hosts.txt > hosts-abp.txt
+                perl bin/abp.pl hosts.txt > hosts-abp.txt
             - name: Commit
               id: commit
               run: |
