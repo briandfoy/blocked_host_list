@@ -30083,10 +30083,10 @@ page-x.com
 page.0ffer.eu
 page.app15.in
 page2rss.com
-pagead-googlehosted.l.google.com
+||pagead-googlehosted.l.google.com^
 pagead.googlesyndication.com
 pagead.l.doubleclick.net
-pagead.l.google.com
+||pagead.l.google.com^
 pagead.topobiavi.com
 pagead1.googlesyndication.com
 pagead2.googleadservices.com
@@ -30256,7 +30256,7 @@ partner02.oingo.com
 partner03.oingo.com
 partner1.whatsfind.com
 partnerad.l.doubleclick.net
-partnerad.l.google.com
+||partnerad.l.google.com^
 partnerads.men
 partnerads.ysm.yahoo.com
 partnercash.de
@@ -31140,12 +31140,12 @@ pluginx.perfectgonzo.com
 plugrush.com
 plugs.top
 plumsoftware.co.uk
-plus.google.com
+||plus.google.com^
 plus.iwon.com
 plus.link4link.com
 pluscss.com
 plusnetwork.com
-plusone.google.com
+||plusone.google.com^
 pluto.adcycle.com
 pluto.focalex.com
 pm.adsafeprotected.com
@@ -41522,7 +41522,7 @@ video-go.net
 video-hollywood.ru
 video-info.info
 video-pomp.com
-video-stats.video.google.com
+||video-stats.video.google.com^
 video-trailers.net
 video-woman.com
 video.adaptv.advertising.com
@@ -43218,7 +43218,7 @@ wwv.elwebsearch.info
 wwv.onetad.com
 www-banner.chat.ru
 www-casa.it
-www-google-analytics.l.google.com
+||www-google-analytics.l.google.com^
 www-google.nl
 www-meinauto.de
 www-old.nastydollars.com
