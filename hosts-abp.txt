@@ -1,6 +1,7 @@
-# produced by bin/abp.pl at Sat Mar  1 00:43:49 2025
+||ads.reddit.com^
+# produced by bin/abp.pl at Sat Mar  1 01:47:06 2025
 # Processed 50167 lines.
-# Output 28539 lines.
+# Output 28538 lines.
 ||000free.us^
 ||000webhost.com^
 ||000webhostapp.com^
@@ -20590,7 +20591,6 @@
 ||redclawmexico.com^
 ||redcupcompany.se^
 ||reddion.com^
-||reddit.com^
 ||redditmedia.com^
 ||redemptionengine.com^
 ||redhat.com^
