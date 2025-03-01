@@ -10,10 +10,17 @@
 ||analytic-google.com^
 ||analytics.google.com^
 ||csi.gstatic.com^
+||pagead-googlehosted.l.google.com^
+||pagead.l.google.com^
+||partnerad.l.google.com^
+||plus.google.com^
+||plusone.google.com^
 ||rads.stackoverflow.com^
-# produced by bin/abp.pl at Sat Mar  1 12:07:13 2025
+||video-stats.video.google.com^
+||www-google-analytics.l.google.com^
+# produced by bin/abp.pl at Sat Mar  1 12:13:49 2025
 # Processed 50167 lines.
-# Output 28534 lines.
+# Output 28533 lines.
 ||000free.us^
 ||000webhost.com^
 ||000webhostapp.com^
@@ -10879,7 +10886,6 @@
 ||google-docs.org^
 ||google-liar.ru^
 ||google-reseach.com^
-||google.com^
 ||googleadservices.com^
 ||googleapis.com^
 ||googlechromeupdates.com^
