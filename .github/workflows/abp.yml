@@ -34,7 +34,7 @@ jobs:
                 echo "CHANGES=1" >> $GITHUB_ENV
             - name: branch name
               run: |
-                perl -e 'print qq(PR_BRANCH_NAME=actions/data-update-@{[time]}\n)' >> $GITHUB_ENV
+                perl -e 'print qq(PR_BRANCH_NAME=actions/data-update-@{[time]})' >> $GITHUB_ENV
             - name: Create Pull Request
               id: pull-request
               if: ${{ env.CHANGES == 1 }}
