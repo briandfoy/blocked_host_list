@@ -9,10 +9,11 @@
 ||adservices.google.com^
 ||analytic-google.com^
 ||analytics.google.com^
+||csi.gstatic.com^
 ||rads.stackoverflow.com^
-# produced by bin/abp.pl at Sat Mar  1 02:31:03 2025
+# produced by bin/abp.pl at Sat Mar  1 12:07:13 2025
 # Processed 50167 lines.
-# Output 28535 lines.
+# Output 28534 lines.
 ||000free.us^
 ||000webhost.com^
 ||000webhostapp.com^
@@ -11189,7 +11190,6 @@
 ||gsofootball.com^
 ||gsspcln.jp^
 ||gstatey.net^
-||gstatic.com^
 ||gta-club.ru^
 ||gta-top.ru^
 ||gtarcade.com^
